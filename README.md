@@ -1,1 +1,1 @@
-# deep-learning-2018
+ResNext implementation
